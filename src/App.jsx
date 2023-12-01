@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import '../src/app.scss'
+import '../src/App.scss'
 const url = 'https://api.github.com/users'
 
 function App() {
